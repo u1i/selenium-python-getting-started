@@ -4,6 +4,10 @@
 
 `docker run -it -p 4444:4444 danielfrg/selenium
 `
+
+web gui now accessible at http://localhost:4444/wd/hub
+
+
 ## 2 Get a website screenshot with Python
 
 import time
