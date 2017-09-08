@@ -28,4 +28,6 @@ time.sleep(5) # give it a moment to load
 
 driver.save_screenshot('screenshot.png')
 
+print driver.page_source # HTML raw output
+
 driver.quit()

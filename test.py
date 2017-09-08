@@ -13,4 +13,5 @@ search_box.submit()
 time.sleep(5) # Let the user actually see something!
 driver.save_screenshot('screenie.png')
 
+print driver.page_source # HTML raw output
 driver.quit()
