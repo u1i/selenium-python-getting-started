@@ -2,7 +2,7 @@
 
 ## 1 - Run a local docker instance of selenium
 
-`docker run -it -p 4444:4444 danielfrg/selenium
+`docker run -it -p 4444:4444 u1ih/selenium
 `
 
 web gui now accessible at http://localhost:4444/wd/hub
